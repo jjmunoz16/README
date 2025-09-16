@@ -1,7 +1,7 @@
 # Hola, soy Juan Jose Vallejo Muñoz.
 
 <p align="center">
-  <img src="foto.jpg" alt="Foto" width="20%">
+  <img src="foto1.jpg" alt="Foto" width="20%">
 </p>
 
 ### Cursando la carrera de Ingenieria en Sistemas y Telecomunicaciones en la Universidad de Manizales.
