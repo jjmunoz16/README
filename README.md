@@ -1,4 +1,4 @@
-# Hola, soy Juan Jose Vallejo Muñoz.
+# Hola, soy Juan José Vallejo Muñoz.
 
 <p align="center">
   <img src="foto1.jpg" alt="Foto" width="20%">
