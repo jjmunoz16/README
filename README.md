@@ -4,9 +4,8 @@
   <img src="foto.jpg" alt="Foto" width="20%">
 </p>
 
-### Un joven apasionado por la programacion y el aprendizaje.
 ### Cursando la carrera de Ingenieria en Sistemas y Telecomunicaciones en la Universidad de Manizales.
-### Tengo un técnico en administración de empresas.
+### técnico en administración de empresas.
 
 ### 🎮 &nbsp; Exjugador profesional de Fortnite, Call Of Duty y Fifa.
 
